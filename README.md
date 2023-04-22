@@ -1,5 +1,4 @@
 ### Hello World 👋, my name is Jesus Enrique
-![](https://www.linkedin.com/in/jes%C3%BAsenriquejimenezpalacios/)
 <h3 align="center">A passionate frontend developer</h3>
 
 I am a Full Stack Web Developer, graduated from ISDI CODERS (Previously known as SkylabCoders, best Bootcamp in the world 2020 by Switchup).
@@ -18,11 +17,11 @@ Skills: JAVASCRIPT / TYPESCRIPT / REACT / HTML / CSS / SASS
 - 💬 Ask me about **React, Javascript, HTML, CSS, SASS**
 
 - 📫 How to reach me **jesus.cassano.2006@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jesusnauta9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jesusnauta9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in//jesusenriquejimenezpalacios/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/jesusenriquejimenezpalacios/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jes%C3%BAsenriquejimenezpalacios/
+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/jesusenriquejimenezpalacios/" height="30" width="40" /></a>
 <a href="https://fb.com/jesus enrique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jesus enrique" height="30" width="40" /></a>
 <a href="https://instagram.com/jesusnauta9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jesusnauta9" height="30" width="40" /></a>
 <a href="https://discord.gg/Jesus Enrique#1893" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Jesus Enrique#1893" height="30" width="40" /></a>
