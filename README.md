@@ -10,7 +10,7 @@ Other qualities that I have been able to develop in my professional experience o
 
 Skills: JAVASCRIPT / TYPESCRIPT / REACT / HTML / CSS / SASS
 
-- 🔭 I’m currently working on [Real Madrid Fantasy](https://github.com/Jesusnauta/Jesus-Enrique-Jimenez-Final-Project-front)
+- 🔭 I’m currently working on [https://realmadrid-fantasy.netlify.app/](https://github.com/Jesusnauta/Jesus-Enrique-Jimenez-Final-Project-front)
 
 - 🌱 I’m currently learning **PHP**
 
