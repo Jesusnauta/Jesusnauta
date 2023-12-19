@@ -10,7 +10,7 @@ Other qualities that I have been able to develop in my professional experience o
 
 Skills: JAVASCRIPT / TYPESCRIPT / REACT / HTML / CSS / SASS
 
-- 🔭 I’m currently working on @takeAway
+- 🔭 I’m currently working on @takeAwayAgency
 
 - 🌱 I’m currently learning **PHP**
 
