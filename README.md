@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&random=false&width=435&lines=Hello+world%2C+my+name+is+Jes%C3%BAs+Enrique)](https://git.io/typing-svg)
 
-A passionate frontend developer
 I am a Full Stack Web Developer, graduated from ISDI CODERS (Previously known as SkylabCoders, best Bootcamp in the world 2020 by Switchup).
 
 Let's talk a little about me!
