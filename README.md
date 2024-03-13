@@ -1,4 +1,10 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+World+%F0%9F%91%8B%2C+my+name+is+Jesus+Enrique+%3Ch3+align%3D%22center%22%3EA+passionate+frontend+developer%3C%2Fh3%3E++I+am+a+Full+Stack+Web+Developer%2C+graduated+from+ISDI+CODERS+(Previously+known+as+SkylabCoders%2C+best+Bootcamp+in+the+world+2020+by+Switchup).++Let's+talk+a+little+about+me!++I+like+helping+people%2C+nature%2C+sports+(mainly+soccer).+I+also+studied+Bachelor+of+Education+and+Warehouse+Organization.+Other+qualities+that+I+have+been+able+to+develop+in+my+professional+experience+outside+the+technology+sector+and+throughout+the+Bootcamp+have+been+responsibility%2C+teamwork%2C+time+management%2C+working+under+pressure+and+decision-making..." alt="Typing SVG" /></a>
+Hello World 👋, my name is Jesus Enrique
+A passionate frontend developer
+I am a Full Stack Web Developer, graduated from ISDI CODERS (Previously known as SkylabCoders, best Bootcamp in the world 2020 by Switchup).
+
+Let's talk a little about me!
+
+I like helping people, nature, sports (mainly soccer). I also studied Bachelor of Education and Warehouse Organization. Other qualities that I have been able to develop in my professional experience outside the technology sector and throughout the Bootcamp have been responsibility, teamwork, time management, working under pressure and decision-making...
 
 Skills: JAVASCRIPT / TYPESCRIPT / REACT / HTML / CSS / SASS
 
